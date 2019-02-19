@@ -1,1 +1,1 @@
-# Este es una etiqueta <h1>
+# instalación de foreman en centos 7<h1>
